@@ -19,18 +19,22 @@
 
       function mostrarHome() {
         document.getElementById('home').style.display = 'block';
+        
       }
 
       function ocultarLogin() {
         document.getElementById('login').style.display = 'none';
+      
       }
 
       function esconderHome() {
         document.getElementById('home').style.display = 'none';
+        
       }
 
       function mostrarLogin() {
         document.getElementById('login').style.display = 'block';
+        
       }
 
     
