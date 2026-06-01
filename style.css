@@ -48,7 +48,7 @@
              transition: all 0.3s ease;
         }
         .btn-login:hover {
-            color: #ddd;
+            color: #fff;
              transform: translateY(-6px) scale(1.05);
             
         }

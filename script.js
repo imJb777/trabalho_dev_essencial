@@ -18,7 +18,7 @@
       
 
       function mostrarHome() {
-        document.getElementById('home').style.display = 'block';
+        document.getElementById('home').style.display = 'flex';
         
       }
 
@@ -33,7 +33,7 @@
       }
 
       function mostrarLogin() {
-        document.getElementById('login').style.display = 'block';
+        document.getElementById('login').style.display = 'flex';
         
       }
 
